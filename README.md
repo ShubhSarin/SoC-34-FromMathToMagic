@@ -90,4 +90,4 @@ CPU is fine for Weeks 0–4. GPU becomes useful from Week 5 onward.
 ---
 
 ## Resources
-[Week 0 - Python, PyTorch and more](Week0.md)
+[Week 0 - Python, PyTorch and more](Resources/Week-0/Week0.md)
